@@ -1,7 +1,7 @@
 /* bootstrap 3 helpers */
 
 .navbar-form input, .form-inline input {
-	width:auto;
+  width:auto;
 }
 
 /* end */
@@ -9,8 +9,8 @@
 /* custom theme */
 
 header {
-	min-height:230px;
-  	margin-bottom:5px;
+  min-height:230px;
+    margin-bottom:5px;
 }
 
 @media (min-width: 979px) {
@@ -36,24 +36,24 @@ body {
 }
 
 a,a:hover {
-	color:#d71920;
+  color:#d71920;
   text-decoration: none;
 }
 
 .highlight-bk {
-	background-color:#ff3333;
+  background-color:#ff3333;
     padding:1px;
     width:100%;
 }
 
 .highlight {
-	color:#d71920;
+  color:#d71920;
 }
 
 h3.highlight  {
-	padding-top:13px;
+  padding-top:13px;
     padding-bottom:14px;
-  	border-bottom:2px solid #ff3333;
+    border-bottom:2px solid #ff3333;
 }
 
 .redbar {
@@ -101,19 +101,19 @@ h3.highlight  {
 }
 
 .navbar {
-	background-color:#eee;
-  	color:#ffffff;
+  background-color:#eee;
+    color:#ffffff;
     border:0;
-  	border-radius:0;
+    border-radius:0;
 }
 .navbar > a:hover {
   color:#ff3333;
   text-decoration:underline;
 }
 .navbar-nav > li > a {
-  	color:#424242;
-  	padding-left:20px;
-  	padding-right:20px;
+    color:#424242;
+    padding-left:20px;
+    padding-right:20px;
     padding-top:15px;
 }
 .navbar-nav > li > a:hover, .navbar-nav > li > a:focus {
@@ -128,8 +128,8 @@ h3.highlight  {
 }
 .navbar-nav > .open > a, .navbar-nav > .open > a:hover, .navbar-nav > .open > a:focus {
   color: #f0f0f0;
-	background-color:transparent;
-  	opacity:.9;
+  background-color:transparent;
+    opacity:.9;
 }
 
 .nav .open > a {
@@ -138,32 +138,32 @@ h3.highlight  {
 }
 
 .accordion-group {
-	border-width:0;
+  border-width:0;
 }
 
 .dropdown-menu {
-	min-width: 250px;
+  min-width: 250px;
 }
 
 .accordion-heading .accordion-toggle, .accordion-inner, .nav-stacked li > a {
-	padding-left:1px;
+  padding-left:1px;
 }
 
 .caret {
-	color:#fff;
+  color:#fff;
 }
 
 .navbar-toggle {
-	color:#fff;
+  color:#fff;
     border-width:0;
 }
 
 .navbar-toggle:hover {
-	background-color:#fff;
+  background-color:#fff;
 }
 
 .panel {
-	padding-left:27px;
+  padding-left:27px;
     padding-right:27px;
 }
 
