@@ -170,6 +170,12 @@ h3.highlight  {
 /* end theme */
 
 /* Lucijan updates */
-.navbar-nav li > a {
+.redbar .navbar-nav li > a {
   color: #fff;
+}
+
+.redbar .navbar-nav li > a:hover,
+.redbar .navbar-nav li > a:focus {
+  color: #fff;
+  background-color: transparent;
 }
