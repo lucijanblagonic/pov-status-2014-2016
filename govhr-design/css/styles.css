@@ -17,7 +17,7 @@ header {
   #sidebar.affix-top {
       position: static;
   }
-  
+
   #sidebar.affix {
       position: fixed;
       top: 0;
@@ -49,7 +49,7 @@ a,a:hover {
 .highlight {
 	color:#d71920;
 }
-  
+
 h3.highlight  {
 	padding-top:13px;
     padding-bottom:14px;
@@ -74,7 +74,7 @@ h3.highlight  {
     padding-top:15px;
 }
 .redbar-nav > li > a:hover, .redbar-nav > li > a:focus {
-    color:#d71920; 
+    color:#d71920;
     text-decoration:underline;
 }
 .redbar-nav > li:last-child > a {
@@ -117,7 +117,7 @@ h3.highlight  {
     padding-top:15px;
 }
 .navbar-nav > li > a:hover, .navbar-nav > li > a:focus {
-    color:#666666; 
+    color:#666666;
     text-decoration:underline;
 }
 .navbar-nav > li:last-child > a {
@@ -157,7 +157,7 @@ h3.highlight  {
 	color:#fff;
     border-width:0;
 }
-  
+
 .navbar-toggle:hover {
 	background-color:#fff;
 }
@@ -168,3 +168,8 @@ h3.highlight  {
 }
 
 /* end theme */
+
+/* Lucijan updates */
+.navbar-nav li > a {
+  color: #fff;
+}
